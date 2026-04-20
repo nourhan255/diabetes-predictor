@@ -6,7 +6,7 @@ A Machine Learning web application built using Streamlit to predict whether a pe
 
 ## 🖥️ Interface
 
-![App Screenshot](app.png)
+![App Screenshot](brave_screenshot_localhost (1).png)
 
 ---
 
