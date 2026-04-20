@@ -3,7 +3,6 @@ A machine learning web application built with Streamlit to predict whether a per
 # 🩺 Diabetes Prediction System
 ## 🖥️ App Interface
 
-[image](filename.png)
 
 A Machine Learning web app built with Streamlit to predict diabetes based on medical data.
 
