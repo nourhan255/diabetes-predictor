@@ -1,12 +1,44 @@
-# diabetes-predictor
-A machine learning web application built with Streamlit to predict whether a person is diabetic or not based on medical features.
 # 🩺 Diabetes Prediction System
-## 🖥️ App Interface
 
+A Machine Learning web application built using Streamlit to predict whether a person is diabetic or not based on medical data.
 
-A Machine Learning web app built with Streamlit to predict diabetes based on medical data.
+---
 
-## 🚀 How to run
+## 🖥️ Interface
+
+![App Screenshot](app.png)
+
+---
+
+## 🚀 Features
+- Simple user interface using Streamlit  
+- Real-time prediction  
+- Machine Learning model (Random Forest)  
+- Fast and accurate results  
+
+---
+
+## 🧠 Model Information
+- Algorithm: Random Forest Classifier  
+- Dataset: Pima Indians Diabetes Dataset  
+- Input Features: 8 medical parameters  
+
+---
+
+## 📊 Input Features
+- Pregnancies  
+- Glucose  
+- Blood Pressure  
+- Skin Thickness  
+- Insulin  
+- BMI  
+- Diabetes Pedigree Function  
+- Age  
+
+---
+
+## ⚙️ How to Run
+
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
